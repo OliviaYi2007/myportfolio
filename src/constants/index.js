@@ -136,7 +136,7 @@ import {
       iconBg: "#E6DEDD",
       date: "August 2023 - September 2024",
       points: [
-        "Worked one-on-one with 20+ Kumon Early Learners, providing support in math and reading comprehension.",
+        "Worked one-on-one with 30+ Kumon Early Learners, providing support in math and reading comprehension.",
         "Maintained regular communication with parents, addressing inquiries, providing progress updates, and offering guidance to ensure a collaborative approach.",
       ],
     },
