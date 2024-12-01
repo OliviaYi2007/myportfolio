@@ -136,19 +136,19 @@ import {
       iconBg: "#E6DEDD",
       date: "August 2023 - September 2024",
       points: [
-        "Worked one-on-one with 30+ Kumon Early Learners, providing support in math and reading comprehension.",
+        "Worked one-on-one with 40+ Kumon Early Learners, providing support in math and reading comprehension.",
         "Maintained regular communication with parents, addressing inquiries, providing progress updates, and offering guidance to ensure a collaborative approach.",
       ],
     },
     {
-      title: "Administrative Director",
+      title: "Vice President",
       company_name: "STEM Fellowship",
       icon: shopify,
       iconBg: "#383E56",
       date: "September 2023 - Present",
       points: [
-        "Administrative director of Westmount Charter School's STEM Fellowship chapter, an organization aiming to promote STEM in youth.",
-        "Took care of event logistics, hosted, and judged a school hackathon with over 60 participants across grades 5-12.",
+        "Vice President of Westmount Charter School's STEM Fellowship chapter, an organization aiming to promote STEM in youth.",
+        "Took care of event logistics, hosted, and judged a school hackathon with over 100 participants across grades 5-12.",
         "Created a mentorship program for high school students to teach middle school students, and bridged communication between teachers and mentors, ultimately impacting over 100 students.",
         "Updated monthly newsletters to advocate high school STEM opportunities.",
       ],
