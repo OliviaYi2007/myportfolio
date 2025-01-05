@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a graduating high school student from Calgary, Alberta. My dream is to become an engineer with a specialization into software and artificial intelligence. I love to program new projects, especially things I am passionate about, whether that's a pet medical record tracking app, neural networks or a mahjong game!
+        I am a graduating high school student from Calgary, Alberta. My dream is to become an engineer or developer, with a specialization into software and artificial intelligence. I love to program new projects, especially things I am passionate about, whether that's a pet medical record tracking app, neural networks or a mahjong game!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
